@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Firebase Authentication:  unhandled errors during the authentication process.  The `firebaseBug.js` file shows the problematic code, while `firebaseBugSolution.js` provides a solution that includes comprehensive error handling.  This is crucial for maintaining app stability and providing better user experiences.
